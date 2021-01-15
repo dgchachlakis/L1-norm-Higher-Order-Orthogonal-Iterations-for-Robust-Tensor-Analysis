@@ -15,7 +15,7 @@ Inquiries regarding the scripts provided below are cordially welcome. In case yo
 **Citing**
 
 If you use our algorihtm, please cite [[1]](https://ieeexplore.ieee.org/document/9053701).
-```
+```bibtex
 @INPROCEEDINGS{l1hooi,
   author={D. G. {Chachlakis} and A. {Prater-Bennette} and P. P. {Markopoulos}},
   booktitle={ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
